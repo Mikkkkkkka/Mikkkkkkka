@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TypoRacer2 - a competitive typing game<br>🏛️ I'm currently studying at ITMO University<br>🌱 I’m currently learning Backend development<br>⚡ Fun fact: I also make music! [SoundCloud](https://soundcloud.com/nevedoma_hren?ref=clipboard&p=a&c=1&si=45e0eb86b15648d3b996975b4021a239&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<br>📫 How to reach me: [Telegram](t.me/pelmeshke)<br>🌐 Languages I speak: 🇬🇧 - C1, 🇷🇺 - Native
+🔭 I’m currently working on TypoRacer2 - a competitive typing game<br>🏛️ I'm currently studying at ITMO University<br>🌱 I’m currently learning a little-bit of everything<br>⚡ Fun fact: I also make music! [SoundCloud](https://soundcloud.com/nevedoma_hren?ref=clipboard&p=a&c=1&si=45e0eb86b15648d3b996975b4021a239&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)<br>📫 How to reach me: [Telegram](t.me/pelmeshke)<br>🌐 Languages I speak: 🇬🇧 - C1, 🇷🇺 - Native
 
 
 ## 🌐 Socials:
