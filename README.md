@@ -46,7 +46,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Mikkkkkkka&theme=dark&hide_border=true&include_all_commits=false&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=Mikkkkkkka&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikkkkkkka&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Mikkkkkkka&icon=0&color=0)](https://visitcount.itsvg.in)
-
