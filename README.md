@@ -1,6 +1,6 @@
 # 💫 About Me:
 <!-- 🔭 I’m currently working on TypoRacer2 - a competitive typing game  -->
-🏛️ I'm currently studying at ITMO University  
+🏛️ I'm currently studying Software engineering at ITMO University  
 🌱 I’m currently learning Android SDK and multithreaded programming  
 ⚡ Fun fact: I also make music! Go have a [listen](https://soundcloud.com/nevedoma_hren)!  
 📫 How to reach me: see the Socials section  
