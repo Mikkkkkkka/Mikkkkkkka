@@ -1,7 +1,7 @@
 # 💫 About Me:
-<!-- 🔭 I’m currently working on TypoRacer2 - a competitive typing game  -->
+🔭 I’m currently working on TypoRacer2 - a competitive typing game  
 🏛️ I'm currently studying Software engineering at ITMO University  
-🌱 I’m currently learning Android SDK and fullstack web-development.  
+🌱 I’m currently learning Android SDK and fullstack web-development  
 ⚡ Fun fact: I also make music! Have a [listen](https://soundcloud.com/nevedoma_hren)!  
 📫 How to reach me: see the Socials section  
 🌐 Languages I speak: 🇬🇧 - C1, 🇷🇺 - Native
