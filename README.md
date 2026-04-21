@@ -5,7 +5,7 @@
 ⚡ Fun fact: I also make music! Have a [listen](https://soundcloud.com/nevedoma_hren)!  
 📫 How to reach me: see the Socials section  
 🗿 Languages I speak: 🇬🇧 - C1, 🇷🇺 - Native  
-🌐 My personal webcite: https://mikkkkkkka.ru
+🌐 My personal website: https://mikkkkkkka.ru
 
 
 ## 🗣️ Socials:
