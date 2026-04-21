@@ -4,10 +4,11 @@
 🌱 I’m currently learning Android SDK and fullstack web-development  
 ⚡ Fun fact: I also make music! Have a [listen](https://soundcloud.com/nevedoma_hren)!  
 📫 How to reach me: see the Socials section  
-🌐 Languages I speak: 🇬🇧 - C1, 🇷🇺 - Native
+🗿 Languages I speak: 🇬🇧 - C1, 🇷🇺 - Native
+🌐 My personal webcite: https://mikkkkkkka.ru
 
 
-## 🌐 Socials:
+## 🗣️ Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/k_amysh)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/406867346003722241)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/NeSaikou) 
